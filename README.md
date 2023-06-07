@@ -148,7 +148,8 @@ Publish the website in the given URL.
 
 
 ## HTML VALIDATOR:
-![image](https://github.com/harinidq/cover/assets/113497680/3d1ec4f8-c5c4-4bea-a446-ab850b08835b)
+![image](https://github.com/harinidq/cover/assets/113497680/e71a54bd-83bb-4bea-856e-be6c8e784074)
+
 
 
 ## RESULT:
