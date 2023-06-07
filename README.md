@@ -113,29 +113,29 @@ Publish the website in the given URL.
         <div class="bookpage">
             <div class="insight">
                 SEC INSIGHT
-            </div>
+           </div>
             <div class="hrstyle">
                 <hr style="color: red;">
             </div>
             <div class="booktitle">
-                <h1>Fundamentals of Web Application Development</h1></div>
+                <h1>PROGRAMMING LANGUAGES</h1></div>
             <div class="subtitle">
-                HTML and CSS Combined with Django Architecture
+                C,C++,Python and more.
             </div>
             <div class="mypic">
-                <img src="/static/images/my photo.jpg" width="130" height="145" alt="">
+                <img src="/static/images/harini.jpg" width="130" height="145" alt="">
             </div>
             <div class="id">
-                <hr style="color: orange;">
+                <hr style="color: indigo;">
             </div>
             <div class="author">
-               <p><b>NANDHINI.E</b></p>
+               <p><b>HARINI</b></p>
             </div>
             <div class="pub">
                 SEC
             </div>
             <div class="ed">
-                <b>Seventh  Edition</b>
+                <b>DEVLOPED BY</b>
             </div>
         </div>
     </body>
@@ -143,11 +143,12 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![image](https://github.com/harinidq/cover/assets/113497680/fe6d1fbf-cc84-46a1-a4d6-5733f54b1de7)
+![image](https://github.com/harinidq/cover/assets/113497680/9a47d07d-f3f3-4774-8647-f4ef0c1e7929)
+
 
 
 ## HTML VALIDATOR:
-![image](https://github.com/harinidq/cover/assets/113497680/b5d9dc37-023a-451d-a43b-df6fa889c51f)
+![image](https://github.com/harinidq/cover/assets/113497680/3d1ec4f8-c5c4-4bea-a446-ab850b08835b)
 
 
 ## RESULT:
